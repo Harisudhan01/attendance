@@ -1,0 +1,121 @@
+body{
+    background-color: black;
+    color:aliceblue;
+}
+.atten{
+    display: flex;
+    color:rgb(226, 91, 13);
+    margin-left: 20px;
+}
+.deg{
+    color:rgb(252, 214, 3);
+    margin-left: 20px;
+}
+.out{
+    display: flex;
+    margin-top: -50px;
+ margin-left: 280px;
+ background-color: rgb(20, 209, 209);
+ height: 30px;
+ width:80px;
+ align-items: center;
+ font-size: 15px;
+ border-radius: 20px;
+ font-weight: bolder;
+}
+.hari h1{
+    display: flex;
+    font-size: 28px;
+    margin-top: -30px;
+}
+.sudhan h1{
+      display: flex;
+    font-size: 28px;
+    margin-top: -30px;
+}
+
+
+.reg{
+    display: flex;
+    margin-top: 2px;
+}
+.hari{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    background-color: rgb(43, 41, 41) ;
+    height:130px;
+    padding:10px;
+    border-radius: 20px;
+    box-shadow:0 0 15px rgb(32, 29, 199) ;
+    border-color: blue;
+   
+}
+.sudhan{
+     box-shadow:0 0 15px rgb(32, 29, 199) ;
+    border-color: blue;
+  margin-right: 10px;  
+}
+.btn{
+    display: flex;
+margin-top: -70px;
+margin-left: 230px;
+
+}
+.pr,.ab{
+    width:50px;
+    height:30px;
+    border-radius: 15px;
+    
+}
+.female{
+    width:50px
+}
+.hari .name{
+    display: flex;
+    margin-left: 70px;
+    margin-top: -40px;
+    
+}
+.sudhan .name{
+     display: flex;
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.confirm{
+    height:40px;
+    width:90px;
+    font-size:20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: chartreuse;
+    margin-top: 20px;
+    margin-left: 250px;
+    border-radius: 20px;
+    border-color: rgb(36, 65, 7);
+    color:rgb(10, 20, 150);
+}
+.nav{
+position: fixed;
+background-color: black;
+top:0;
+
+}
+.sudhan{
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: rgb(43, 41, 41) ;
+    height:130px;
+    padding:10px;
+    border-radius: 20px;
+   margin-top:200px
+}
+#dte{
+    display: flex;
+    margin-top: 0px;
+    color:aqua;
+}
+.tot{
+     color:aqua;
+     margin-top: -32px;
+     margin-left: 200px;
+}

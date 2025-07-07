@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="attendance.css">
+</head>
+<body>
+    <form onsubmit="event.preventDefault(); nextpage();">
+    <div class="head">
+        <h1>Gacakum</h1>
+        <div class="date">
+            
+            <label>Select Date</label>
+            
+            <input type="date" name="selectdate">
+        </div>
+        <div class="name">
+            <label>Select Course</label>
+        <select id="next">
+            <option disabled selected>Select</option>
+           <option value="bsc1.html">BSc CS-1</option>
+            <option value="bsc2.html">BSc CS-2
+            </option>
+            <option value="bsc3.html">BSc CS-3</option>
+        </select>
+        </div> 
+        <button type="submit">ok</button>
+    </div></form>
+   <script src="bsc2.js"></script>
+</body>
+</html>

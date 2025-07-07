@@ -1,0 +1,50 @@
+body{
+background-color: rgb(0, 0, 0);
+color:rgb(0, 0, 0);
+
+}
+.head{
+    font-size: 20px;
+margin-left: 80px;
+margin-top: 200px;
+
+
+}
+.head{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(43, 41, 41);
+    width:70%;
+    padding:20px;
+    margin-left: 32px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px blue;
+
+}
+.name{
+    margin-top: 20px;
+    color:rgb(18, 255, 243);
+    margin-left:25px
+}
+.date{
+        color:rgb(18, 255, 243);
+        margin-left:25px
+}
+button{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 82px;
+    width:80px;
+    height: 30px;
+   font-size: 20px;
+    justify-content: center;
+    background-color: rgb(72, 194, 194);
+    border-radius: 20px;
+    border-color: blue;
+
+}
+.head h1{
+    margin-left: 35px;
+    margin-top: -20px;
+    color:rgb(255, 0, 0);
+}

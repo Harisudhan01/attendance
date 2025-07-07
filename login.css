@@ -1,0 +1,90 @@
+body{
+    background-color: black;
+    color:white;
+
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    cursor:pointer;
+}
+.input input{
+    width:250px;
+   
+    height:25px;
+    border-color: brown;
+    border-left: none;
+    border-right:none;
+    border-top: none;
+    background-color: transparent;
+    margin-left:20px;
+    
+    
+}
+.login h1{
+margin-left: 95px;
+color:goldenrod;
+}
+.login{
+   margin-top:200px;
+   margin-left: 40px;
+  
+  
+}
+.pass{
+    margin-top: 30px;
+   
+}
+.pass2{
+    margin-top: 30px;
+}
+
+.int{
+    margin-left:-80px;
+}
+input:focus{
+    outline:none;
+    box-shadow: none;
+}
+.password ,.username{
+   display: flex;
+}
+.int{
+    color:aliceblue;
+    font-size: 15px;
+    text-align: center;
+
+}
+.button{
+    margin-top: 30px;
+}
+.btn{
+    margin-left: 120px;
+   width:70px;
+    height:30px;
+    border-radius: 20px;
+    
+}
+
+.res{
+    margin-left: 20px;
+     width:70px;
+    height:30px;
+      border-radius: 20px;
+}
+.btn:hover{
+    background-color: rgb(21, 238, 21);
+}
+.res:hover{
+    background-color: blue;
+}
+.login{
+    background-color: rgb(31, 29, 29);
+    padding:20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 25px;
+    margin-top: 150px;
+    box-shadow: 0 0 20px blue;
+}
