@@ -10,6 +10,7 @@ body{
 .deg{
     color:rgb(252, 214, 3);
     margin-left: 20px;
+    font-size: 20px;
 }
 .out{
     display: flex;
